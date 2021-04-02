@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid red;
+}
+
+div {
+    margin-left: 400px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.d {
+    margin-left: 20px;
+}
+
+input {
+    margin-left: 10px;
+    margin-top: 13px;
+    height: 20px;
+}
